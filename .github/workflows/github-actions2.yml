@@ -1,5 +1,4 @@
-name: "${{ github.actor }}-workflow"
-
+name: "${{github.actor}}-workflow"
 on:
   pull_request:
 
